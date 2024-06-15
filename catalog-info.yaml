@@ -4,6 +4,7 @@ metadata:
   name: prometheus
   annotations:
     github.com/project-slug: varuntalus/prometheus
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
