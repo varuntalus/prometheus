@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: varuntalus/prometheus
     backstage.io/techdocs-ref: value
-    argocd/app-name: abc
+    argocd/app-name: prometheus
 spec:
   type: other
   lifecycle: unknown
